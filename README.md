@@ -9,9 +9,13 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 
 ## Algorithm
 1. Import the required libraries and load the employee dataset.
+
 2. Convert categorical data into numerical values and split the data into training and testing sets.
+
 3.Create and train the Decision Tree Classifier using the training data.
+
 4.Predict employee churn using the test data and calculate the accuracy.
+
 5.Display the decision tree and the model accuracy.
  
 
